@@ -5,6 +5,7 @@ import Popup from "./Popup";
 
 function Note(props) {
   const [popup, setpopup] = useState(false)
+ 
 
   return (
     <>
